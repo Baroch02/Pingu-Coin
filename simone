@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto Project</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Benvenuto in Pingu Coin</h1>
+        <p>La memecoin del futuro che unisce divertimento e valore</p>
+    </header>
+    
+    <section id="tokenomics">
+        <h2>Tokenomics</h2>
+        <p>Totale di 10 milioni di MLT: Supply finita con burn mechanism per aumentarne la rarità.</p>
+    </section>
+    
+    <section id="roadmap">
+        <h2>Roadmap</h2>
+        <ul>
+            <li>Q1 2025 - Lancio e Airdrop</li>
+            <li>Q2 2025 - Implementazione del sistema di burn e staking</li>
+            <li>Q3 2025 - Espansione e partnership</li>
+            <li>Q4 2025 - Implementazione di Pingu Coin DAO</li>
+        </ul>
+    </section>
+    
+    <section id="team">
+        <h2>Il Team</h2>
+        <p>Il nostro team è composto da esperti di blockchain e finanza.</p>
+    </section>
+    
+    <section id="social">
+        <h2>Seguici</h2>
+        <a href="#">Twitter</a> | <a href="#">Telegram</a> | <a href="#">Discord</a>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Pingu Coin. Tutti i diritti riservati.</p>
+    </footer>
+</body>
+</html>
